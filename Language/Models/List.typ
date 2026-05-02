@@ -224,5 +224,44 @@ Abliterated:
 
   #a[浅试了一下 Qwen3.6-35B-A3B，很强 - V2EX][https://www.v2ex.com/t/1206447#reply2]
 
+- #a[Qwen3.6-27B: Flagship-Level Coding in a 27B Dense Model][https://qwen.ai/blog?id=qwen3.6-27b]
+  #a-badge[https://www.reddit.com/r/LocalLLaMA/comments/1ssl1xh/qwen_36_27b_is_out/]
+  - #a[Qwen3.6 - How to Run Locally | Unsloth Documentation][https://unsloth.ai/docs/models/qwen3.6]
+    #a-badge[https://huggingface.co/unsloth/Qwen3.6-27B-GGUF]
+    #a-badge[https://www.reddit.com/r/LocalLLaMA/comments/1ssnfdb/unsloth_qwen3627bgguf/]
+    - #a[Need 27b KLD GGUF benchmarks][https://huggingface.co/unsloth/Qwen3.6-27B-GGUF/discussions/18]
+
+  #a[Devs using Qwen 27B seriously, what's your take? : r/LocalLLaMA][https://www.reddit.com/r/LocalLLaMA/comments/1szajgm/devs_using_qwen_27b_seriously_whats_your_take/]
+
+  #a[Are Qwen 3.6 27B and 35B making other \~30B models obsolete? : r/LocalLLaMA][https://www.reddit.com/r/LocalLLaMA/comments/1t00d2m/are_qwen_36_27b_and_35b_making_other_30b_models/]
+
+  #a[Need advice on Qwen 3.6 27B INT4 quantization : r/LocalLLaMA][https://www.reddit.com/r/LocalLLaMA/comments/1t1xye4/need_advice_on_qwen_36_27b_int4_quantization/]
+  
+  #a[unsloth/Qwen3.6-27B-GGUF - Qwen3.6 27B vs Qwen 3.6 35B A3B? Which one to go with][https://huggingface.co/unsloth/Qwen3.6-27B-GGUF/discussions/12]
+
+  #a[Forgive my ignorance but how is a 27B model better than 397B? : r/LocalLLaMA][https://www.reddit.com/r/LocalLLaMA/comments/1st11lp/forgive_my_ignorance_but_how_is_a_27b_model/]
+
+  #a[Switched from Qwen3.6 35b-a3b to Qwen3.6 27b mid coding and it's noticeably better! : r/LocalLLaMA][https://www.reddit.com/r/LocalLLaMA/comments/1swifke/switched_from_qwen36_35ba3b_to_qwen36_27b_mid/]
+
+  #a[Qwen 3.6 27B vs 35B on RTX 5090 (Windows) - Best setup?? : r/Qwen_AI][https://www.reddit.com/r/Qwen_AI/comments/1sw6fwg/qwen_36_27b_vs_35b_on_rtx_5090_windows_best_setup/]
+
+  #a[Been using Qwen-3.6-27B-q8_k_xl + VSCode + RTX 6000 Pro As Daily Driver : r/LocalLLaMA][https://www.reddit.com/r/LocalLLaMA/comments/1t19iil/been_using_qwen3627bq8_k_xl_vscode_rtx_6000_pro/]
+  - #q[I think you touch on one of the reasons there is so much disagreement on how useful local models are.
+    If you really need your hand held then that is where full scale hosted models are very different.
+    But for experienced devs, we actively don't want our hand held. We want to boss this thing around.
+    Once you are doing that anyway - building plans, making it write and run tests, inspecting the code and telling it to do it different when you don't like it - the difference between full scale models and local ones is much more marginal.]
+
+  #a[Ideal settings for Qwen 3.6 27b : r/LocalLLM][https://www.reddit.com/r/LocalLLM/comments/1t06vow/ideal_settings_for_qwen_36_27b/]
+
+  #a[Qwen3.6 27B seems struggling at 90k on 128k ctx windows : r/LocalLLaMA][https://www.reddit.com/r/LocalLLaMA/comments/1szxjqe/qwen36_27b_seems_struggling_at_90k_on_128k_ctx/]
+
+  #a[Qwen 3.6 27B BF16 vs Q4_K_M vs Q8_0 GGUF evaluation : r/LocalLLaMA][https://www.reddit.com/r/LocalLLaMA/comments/1sxzqry/qwen_36_27b_bf16_vs_q4_k_m_vs_q8_0_gguf_evaluation/]
+  - #q[Why not q6.. I think q6 if can fit on vram would be best?]
+
+  #a[Qwen-3.6-27B, llamacpp, speculative decoding - appreciation post : r/LocalLLaMA][https://www.reddit.com/r/LocalLLaMA/comments/1stcer1/qwen3627b_llamacpp_speculative_decoding/]
+
+  #a[Luce DFlash: Qwen3.6-27B at up to 2x throughput on a single RTX 3090 : r/LocalLLaMA][https://www.reddit.com/r/LocalLLaMA/comments/1sx8uok/luce_dflash_qwen3627b_at_up_to_2x_throughput_on_a/]
+  - #a[Follow-up: Qwen3.6-27B on 1× RTX 3090 --- pushing to \~218K context + \~50--66 TPS, tool calls now stable (PN12 fix) : r/LocalLLaMA][https://www.reddit.com/r/LocalLLaMA/comments/1t07su1/followup_qwen3627b_on_1_rtx_3090_pushing_to_218k/]
+
 #a[CanIRun.ai --- Can your machine run AI models?][https://www.canirun.ai/]
 #a-badge[https://pc.watch.impress.co.jp/docs/news/yajiuma/2102148.html]

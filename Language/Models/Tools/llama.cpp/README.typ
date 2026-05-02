@@ -59,6 +59,11 @@ Windows:
   - ```sh --no-mmap```
     #footnote[#a[Feature Request: Avoid loading GPU layers into RAM before moving them to VRAM. This should allow the use of `--no-mmap` with models that do not fit in RAM but fit in RAM+VRAM. - Issue \#9059 - ggml-org/llama.cpp][https://github.com/ggml-org/llama.cpp/issues/9059]]
 
+- mmproj
+  - `--no-mmproj`
+  - CPU: `--no-mmproj-offload`
+  - #a[Offload mmproj to RAM and swap with LLM layers to VRAM at runtime to allow more VRAM for the LLM - ggml-org/llama.cpp - Discussion \#20246][https://github.com/ggml-org/llama.cpp/discussions/20246]
+
 - #a[Router mode][https://github.com/ggml-org/llama.cpp/blob/master/tools/server/README.md#using-multiple-models]
   : ```sh llama-server```
   - ```sh --models-max 4``` by default
