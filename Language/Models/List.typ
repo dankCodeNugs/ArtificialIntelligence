@@ -230,6 +230,13 @@ Abliterated:
     #a-badge[https://huggingface.co/unsloth/Qwen3.6-27B-GGUF]
     #a-badge[https://www.reddit.com/r/LocalLLaMA/comments/1ssnfdb/unsloth_qwen3627bgguf/]
     - #a[Need 27b KLD GGUF benchmarks][https://huggingface.co/unsloth/Qwen3.6-27B-GGUF/discussions/18]
+  - MTP: #a[unsloth/Qwen3.6-27B-MTP-GGUF][https://huggingface.co/unsloth/Qwen3.6-27B-MTP-GGUF]
+    - #a[Qwen3.6 27b q5_k_M MTP - 256k context - 5090 : r/LocalLLaMA][https://www.reddit.com/r/LocalLLaMA/comments/1taz3eu/qwen36_27b_q5_k_m_mtp_256k_context_5090/]
+  - Quantization
+    - #a[Qwen3.6-27B KLDs - INTs and NVFPs : r/LocalLLaMA][https://www.reddit.com/r/LocalLLaMA/comments/1ssyukx/qwen3627b_klds_ints_and_nvfps/]
+    - #a[Quality comparison between Qwen 3.6 27B quantizations (BF16, Q8_0, Q6_K, Q5_K_XL, Q4_K_XL, IQ4_XS, IQ3_XXS,...) : r/LocalLLaMA][https://www.reddit.com/r/LocalLLaMA/comments/1t53dhp/quality_comparison_between_qwen_36_27b/]
+  - vs. Qwen3-Coder-Next:
+    - #a[I can't get Qwen3.6 27B to outperform Qwen-Coder-Next and I'm not sure why : r/LocalLLaMA][https://www.reddit.com/r/LocalLLaMA/comments/1tfx7ka/i_cant_get_qwen36_27b_to_outperform_qwencodernext/]
 
   #a[Devs using Qwen 27B seriously, what's your take? : r/LocalLLaMA][https://www.reddit.com/r/LocalLLaMA/comments/1szajgm/devs_using_qwen_27b_seriously_whats_your_take/]
 

@@ -151,6 +151,10 @@ VRAM (`unsloth/Qwen3-Coder-Next-GGUF:UD-IQ3_XXS`):
 
   #a[Feature Request: Auto-save and Auto-load Conversations to and from File System in Server UI (Beyond Browser Local Storage) - Issue \#16604 - ggml-org/llama.cpp][https://github.com/ggml-org/llama.cpp/issues/16604]
 
+- ```sh -lv 4``` / ```sh LLAMA_LOG_VERBOSITY=4```
+  #footnote[#a[logs : reduce by ggerganov - Pull Request \#23021][https://github.com/ggml-org/llama.cpp/pull/23021]]
+  #footnote[#a[Misc. bug: Why change output of llama.cpp server? - Issue \#23162][https://github.com/ggml-org/llama.cpp/issues/23162]]
+
 - MCP
 
   #a[MCP support in llama.cpp is ready for testing : r/LocalLLaMA][https://www.reddit.com/r/LocalLLaMA/comments/1r1czgk/mcp_support_in_llamacpp_is_ready_for_testing/]

@@ -80,6 +80,7 @@
   - [Latent Dirichlet Allocation](Language/Topic/LDA.md)
   - [基于潜在狄利克雷分配模型的语义搜索方法](Language/Topic/基于潜在狄利克雷分配模型的语义搜索方法/Paper.pdf) ([Slide](Language/Topic/基于潜在狄利克雷分配模型的语义搜索方法/Slide.pdf))
 - [Language Models](Language/Models/README.md)
+  - [Speculative Decoding](Language/Models/Speculation/README.typ)
   - [Censorship](Language/Models/Censorship.md)
   - [Tools](Language/Models/Tools/README.md)
     - [llama.cpp](Language/Models/Tools/llama.cpp/README.typ)
